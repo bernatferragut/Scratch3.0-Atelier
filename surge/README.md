@@ -1,71 +1,71 @@
 # SCRATCH 3.0 - Live depuis 2 JANVIER 2019 :)
 
-## AMMÉLIORATIONS
+## AMÉLIORATIONS
 ### 0. Code Ouvert - Bye technologie Flash 
-    * Codé en javascript intégrement à nouveau - langage moderne du Web
+    * Recodé en JavaScript intégralement - langage moderne du Web
     * Tout le code source sur Github
     * Possibilité de modifier le code source.
-    * Multi platforme + specialement ipads, touch-screens, mobile.
+    * Multi-platforme + spécialement pour ipads, touchscreens, mobile.
 
 ### 1. Interface - UI/UX - COULEURS FONTS
     * Évolution logique de Scratch 2.0
-    * Focus sur l'éditeur - Communautée aprés
+    * Focus sur l'éditeur - Section communauté à venir 
     * Nouvelle interface moderne
-    * Comment effacer les 
+    * Comment effacer avec le clavier
     * Scroll dans la surface de codage + facile
 
-### 2. Arriere-plans, Lutins
-    * Meilleur et plus moderne choix
-    * Possibilité de voir les mouvements avant choix final
+### 2. Arrière-plans, lutins
+    * Choix plus varié et moderne 
+    * Possibilité de voir les mouvements avant le choix final
 
 ### 3. Paint, Son - extensions/plugins
-    * Possiblité écouter / enregistrer sons
-    * Choix coleur - Color picker
+    * Possiblité d'écouter / enregistrer sons
+    * Choix couleurs - Color picker
     * Glisser vers... - easier
-    * Meilleur control vectoriel des formes et dessin - courves bézier
-    * Couleur plus facile d'utiliser et comprender la rélation couleurs-chifres.
-    * Très facile d'écouter le son et de le manipuler
+    * Meilleur contrôle vectoriel des formes et dessins - courbes de Bézier
+    * Couleurs plus faciles à utiliser et comprender la relation couleurs-chiffres.
+    * Très facile d'écouter le son et de le manipuler (ajout d'effets, etc.)
 
 ### 4. Plugins - Extensions
     * Software - nouveaux plugins - T2S - Trad.
     * Hardware - Intégration avec le Microbit
 
 ### 5. Extensions
-    * Possibilité de coder tes propres extensions avec javascript
-    * Création d'une nouvelle vague d'extensions de toute sorte faite par la communautée !!!
+    * Possibilité de coder tes propres extensions avec JavaScript
+    * Création d'une nouvelle vague d'extensions de toutes sortes faites par la communautée !
     * Prêt pour une nouvelle évolution sur le WEB
     > llc/vm/source/extensions/standard rules
     * bit.ly/scratch-resource-developers
 
-### 6. Version Hors-ligne
-    * Elle existe + est fonctionelle depus 2 Janvier
+### 6. Version hors-ligne
+    * Elle existe et est fonctionelle depuis le 2 janvier
 
-### 7. Réssources 
+### 7. Ressources 
     * Tutoriels 
     * Pas sur Youtube - sur Scratch
-    * Hour of code - Animation game
-    * Animations that talk - newbies
+    * Hour of code - Jeux d'animations
+    * Animations qui parlent - nouveautés
     * Scratch mit - section TIPS 
     * Cartes - bientôt pour 3.0
     * Scratch.mit.edu/3faq
 
 ### 8. Scratch WIKI  - FAQ
     
-### 9. Communautée - Updates
+### 9. Communauté - Mises à jour
     * scratched.gse.harvard.edu/guide
     * csfirst.withgoogle.com
     * projects.raspberrypi.org/en/codeclub
     * github.com/llk
-    * beaucoup à venir
+    * beaucoup plus à venir
 
-## POUR AMMÉLIORER - WIP
+## POUR AMÉLIORER - WIP
 ### 1. Interface Moderne
     * Meilleure interface de codage
     * Police plus facile à lire
-    * couleurs de certain blocks trop pareills verd pour commencer)
+    * Couleurs de certains blocks trop pareils vert pour commencer)
 ### 2. La communautée Scratch 
-    * à le pouvoir de modifier et extendre le logiciel aà volonté.
-    * possibilité de Remixer Scratch au complet
+    * A le pouvoir de modifier et développer le logiciel à volonté.
+    * Possibilité de Remixer Scratch au complet
 
 ## Extension pour le MICROBIT
     * Voir l'archive: TODO.md
