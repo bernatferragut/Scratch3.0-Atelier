@@ -1,13 +1,13 @@
-# SCRATCH 3.0 - Live depuis 2 JANVIER 2019 :)
+# SCRATCH 3.0 - 2 JANVIER 2019 :)
 
 ## AMMÉLIORATIONS
-### 0. Code Ouvert - Bye technologie Flash 
-    * Codé en javascript intégrement à nouveau - langage moderne du Web
+### 0. Code Ouvert [bye technologie Flash]
+    * Codé en javascript intégrement à nouveau - langage du Web
     * Tout le code source sur Github
     * Possibilité de modifier le code source.
-    * Multi platforme + specialement ipads, touch-screens, mobile.
+    * Multi platforme + speciallement ipads, touch-screens, mobile.
 
-### 1. Interface - UI/UX - COULEURS FONTS
+### 1. Interface [UI - COULEURS - FONTS - UX]
     * Évolution logique de Scratch 2.0
     * Focus sur l'éditeur - Communautée aprés
     * Nouvelle interface moderne
@@ -69,3 +69,7 @@
 
 ## Extension pour le MICROBIT
     * Voir l'archive: TODO.md
+
+    
+
+
