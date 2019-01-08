@@ -10,7 +10,7 @@
 * Come out with your own ideas for class
 
 ### 2. EXERCISES POUR REMIXER
-* [Link to Repo](https://github.com/bernatferragut/Scratch3.0-Atelier/)
+* [Lien aux exercices a remixer](https://github.com/bernatferragut/Scratch3.0-Atelier/)
 * Game-1 - Remix Simple - 1 axis game - adding your taste
 * Game-2 - Remix Advanced - 2 axis BG game - adding your taste
 * Share your work at the end of the class
