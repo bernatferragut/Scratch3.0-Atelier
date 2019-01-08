@@ -1,4 +1,4 @@
-# SCRATCH 3.0 - Live depuis 2 JANVIER 2019
+# SCRATCH 3.0 - 2 JANVIER 2019
 
 ## AMÉLIORATIONS
 ### 0. Code Ouvert - Bye technologie Flash 
