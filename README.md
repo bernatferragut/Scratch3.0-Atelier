@@ -1,7 +1,7 @@
 ## SCRATCH 3.0 WORKSHOP - MICROBIT 
 
 ### 0. AMÉLIORATIONS
-* [Lien à l'archive](https://github.com/bernatferragut/Scratch3.0-Atelier/blob/master/INDEX.m)
+* [Lien à l'archive](https://github.com/bernatferragut/Scratch3.0-Atelier/blob/master/INDEX.md)
 
 ### 1. OBJECTIVES
 * What we will learn: How to connect the Microbit to Scratch
