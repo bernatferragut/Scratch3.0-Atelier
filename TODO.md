@@ -2,9 +2,9 @@
 
 ## SCRATCH 3.0 WORKSHOP - Sunday 20 January 2019 (10-12 a.m)
 
-1. Create a Github Scratch 3.0 Repo
-2. Create a README.md file with:
-    * Link to Presentation-surge.sh
+1. Create a Github Scratch 3.0 Repo => OK
+2. Create a README.md file with:  => OK
+    * Link to Presentation-surge.sh  => OK
     * Link to Scratch 3.0
     * Link to Scratch-Link 
     * Link to Microbit Firmware
