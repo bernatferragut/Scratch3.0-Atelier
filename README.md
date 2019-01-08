@@ -15,14 +15,12 @@
 * Game-2 - Remix Advanced - 2 axis BG game - adding your taste
 * Share your work at the end of the class
 
-### 3. Scratch 3.0 Repo
-* [Link to Repo](https://github.com/bernatferragut/Scratch3.0-Atelier/)
 
-### 4. LIENS DE BASE:
+### 3. LIENS DE BASE:
 * [Link to Scratch 3.0](https://scratch.mit.edu/)
 * [Link to Scratch Microbit](https://scratch.mit.edu/microbit)
 
-### 5. LIENS AVANCÉES
+### 4. LIENS AVANCÉES
 * Public album of Examples from youtuber Scratcher - acknowlwdgement
 * [Harward Guide Scratch 3.0](http://scratched.gse.harvard.edu/guide/)
 * [Scractch 3.0 - FAQ](https://scratch.mit.edu/info/faq#scratch3)
