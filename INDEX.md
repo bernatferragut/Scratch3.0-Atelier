@@ -1,29 +1,71 @@
-## SCRATCH 3.0 WORKSHOP - Sunday 20 January 2019 (10-12 a.m)
+# SCRATCH 3.0 - Live depuis 2 JANVIER 2019 :)
 
-1. Create a Github Scratch 3.0 Repo => OK
-2. Create a README.md file with:  => OK
-    * (Link to Scratch 3.0)[https://scratch.mit.edu/]
-    * Link to Scratch-Link []
-    * Link to Microbit Firmware
-    * Link to Microbit-Scratch Examples or Templates to Remix
-    * Link to Sunday Challenge Exercice for Fun
-    * List of relevant Links
+## AMMÉLIORATIONS
+### 0. Code Ouvert - Bye technologie Flash 
+    * Codé en javascript intégrement à nouveau - langage moderne du Web
+    * Tout le code source sur Github
+    * Possibilité de modifier le code source.
+    * Multi platforme + specialement ipads, touch-screens, mobile.
 
-3. General Observations
-> Public album of Examples from youtuber Scratcher - acknowlwdgement
+### 1. Interface - UI/UX - COULEURS FONTS
+    * Évolution logique de Scratch 2.0
+    * Focus sur l'éditeur - Communautée aprés
+    * Nouvelle interface moderne
+    * Comment effacer les 
+    * Scroll dans la surface de codage + facile
 
-> Challenge - create tour own Maze + Add obstacles + points
+### 2. Arriere-plans, Lutins
+    * Meilleur et plus moderne choix
+    * Possibilité de voir les mouvements avant choix final
 
-> Level-1 - Simple Remix adding your taste
+### 3. Paint, Son - extensions/plugins
+    * Possiblité écouter / enregistrer sons
+    * Choix coleur - Color picker
+    * Glisser vers... - easier
+    * Meilleur control vectoriel des formes et dessin - courves bézier
+    * Couleur plus facile d'utiliser et comprender la rélation couleurs-chifres.
+    * Très facile d'écouter le son et de le manipuler
 
-> Level-2 - Agar.io Remix creating your own maze
+### 4. Plugins - Extensions
+    * Software - nouveaux plugins - T2S - Trad.
+    * Hardware - Intégration avec le Microbit
 
-> You can download locally and work on your own computer if you wish
+### 5. Extensions
+    * Possibilité de coder tes propres extensions avec javascript
+    * Création d'une nouvelle vague d'extensions de toute sorte faite par la communautée !!!
+    * Prêt pour une nouvelle évolution sur le WEB
+    > llc/vm/source/extensions/standard rules
+    * bit.ly/scratch-resource-developers
 
-> Show and share your work bu the end of the class
+### 6. Version Hors-ligne
+    * Elle existe + est fonctionelle depus 2 Janvier
 
-4. About the Exercices
-* What we will learn: How to connect the Microbit to Scratch
-* What is the core concept to learn: Physical Tilt -> generate Numbers -> Numbers drive movement ( x,y )
-* How to apply it in some examples - Remix
-* Come out with your own ideas
+### 7. Réssources 
+    * Tutoriels 
+    * Pas sur Youtube - sur Scratch
+    * Hour of code - Animation game
+    * Animations that talk - newbies
+    * Scratch mit - section TIPS 
+    * Cartes - bientôt pour 3.0
+    * Scratch.mit.edu/3faq
+
+### 8. Scratch WIKI  - FAQ
+    
+### 9. Communautée - Updates
+    * scratched.gse.harvard.edu/guide
+    * csfirst.withgoogle.com
+    * projects.raspberrypi.org/en/codeclub
+    * github.com/llk
+    * beaucoup à venir
+
+## POUR AMMÉLIORER - WIP
+### 1. Interface Moderne
+    * Meilleure interface de codage
+    * Police plus facile à lire
+    * couleurs de certain blocks trop pareills verd pour commencer)
+### 2. La communautée Scratch 
+    * à le pouvoir de modifier et extendre le logiciel aà volonté.
+    * possibilité de Remixer Scratch au complet
+
+## Extension pour le MICROBIT
+    * Voir l'archive: TODO.md
