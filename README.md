@@ -12,7 +12,7 @@
 ### 2. EXERCISES À REMIXER
 * [Lien aux exercices a remixer](https://scratch.mit.edu/studios/5830403/)
 * Jeu-1 - Remix Simple - 1 axe - ajoute ton histoire
-* Jeu-2 - Remix Avancé - 2 axies - ajoute ton histoire
+* Jeu-2 - Remix Avancé - 2 axes - ajoute ton histoire
 * Partage ton travail avec la communautée
 
 
