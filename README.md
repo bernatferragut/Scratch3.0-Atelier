@@ -1,11 +1,11 @@
-## SCRATCH 3.0 WORKSHOP - MICROBIT 
+## ATELIER SCRATCH 3.0 + MICROBIT 
 
 ### ATELIER
 * [Lien à l'archive - nouvelles amméliorations](https://github.com/bernatferragut/Scratch3.0-Atelier/blob/master/INDEX.md)
 
 ### OBJECTIVES
-* Comment connecter ton Microbit avec Scratch 3.0
-* Comprendre comment fonctionne l'inclination et sa transformatin en chiffres.
+* Comment connecter le Microbit avec Scratch 3.0
+* Comprendre comment fonctionne l'inclination et sa transformation en chiffres.
 * Application pratique avec quelques exemples à Remixer
 * Ajoute tes idées
 
