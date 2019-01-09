@@ -7,10 +7,10 @@
 * Comment connecter ton Microbit avec Scratch 3.0
 * Comprendre comment fonctionne l'inclination et sa transformatin en chiffres.
 * Application pratique avec quelques exemples à Remixer
-* Ajouter tes idees
+* Ajoute tes idées
 
 ### EXERCISES À REMIXER
-* [Lien aux exercices a remixer](https://scratch.mit.edu/studios/5830403/)
+* [Lien aux exercises à **remixer](https://scratch.mit.edu/studios/5830403/)
 * Jeu-1 - Remix Simple - 1 axe - ajoute ton histoire
 * Jeu-2 - Remix Avancé - 2 axes - ajoute ton histoire
 * Partage ton travail avec la communautée
@@ -21,7 +21,7 @@
 * [Lien à Scratch Microbit](https://scratch.mit.edu/microbit)
 
 ### LIENS AVANCÉES
-* [Exemples d'un bon Scratcheur](http://scratched.gse.harvard.edu/guide/)
+* [Exemples d'un bon Scratcheur: Pinky Pepper](https://scratch.mit.edu/studios/5812900/)
 * [Harward Guide Scratch 3.0](http://scratched.gse.harvard.edu/guide/)
 * [Scractch 3.0 - FAQ](https://scratch.mit.edu/info/faq#scratch3)
 * [Scractch 3.0 - Codeclub](https://projects.raspberrypi.org/en/codeclub/microbit)
