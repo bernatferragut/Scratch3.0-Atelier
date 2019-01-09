@@ -17,8 +17,8 @@
 
 
 ### 3. LIENS DE BASE:
-* [Link to Scratch 3.0](https://scratch.mit.edu/)
-* [Link to Scratch Microbit](https://scratch.mit.edu/microbit)
+* [Lien à Scratch 3.0](https://scratch.mit.edu/)
+* [Lien à Scratch Microbit](https://scratch.mit.edu/microbit)
 
 ### 4. LIENS AVANCÉES
 * [Exemples d'un bon Scratcheur](http://scratched.gse.harvard.edu/guide/)
