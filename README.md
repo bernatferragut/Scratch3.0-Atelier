@@ -4,16 +4,16 @@
 * [Lien à l'archive](https://github.com/bernatferragut/Scratch3.0-Atelier/blob/master/INDEX.md)
 
 ### 1. OBJECTIVES
-* What we will learn: How to connect the Microbit to Scratch
-* The core concept: Physical Tilt -> generate Numbers -> Numbers drive movement ( x,y )
-* How to apply it in some examples - Remix
-* Come out with your own ideas for class
+* Comment connecter ton Microbit avec Scratch 3.0
+* Comprendre comment fonctionne l'inclination et sa transformatin en chiffres.
+* Application pratique avec quelques exemples à Remixer
+* Ajouter tes idees
 
-### 2. EXERCISES POUR REMIXER
-* [Lien aux exercices a remixer](https://github.com/bernatferragut/Scratch3.0-Atelier/)
-* Game-1 - Remix Simple - 1 axis game - adding your taste
-* Game-2 - Remix Advanced - 2 axis BG game - adding your taste
-* Share your work at the end of the class
+### 2. EXERCISES À REMIXER
+* [Lien aux exercices a remixer](https://scratch.mit.edu/studios/5830403/)
+* Jeu-1 - Remix Simple - 1 axe - ajoute ton histoire
+* Jeu-2 - Remix Avancé - 2 axies - ajoute ton histoire
+* Partage ton travail avec la communautée
 
 
 ### 3. LIENS DE BASE:
@@ -21,7 +21,7 @@
 * [Link to Scratch Microbit](https://scratch.mit.edu/microbit)
 
 ### 4. LIENS AVANCÉES
-* Public album of Examples from youtuber Scratcher - acknowlwdgement
+* [Exemples d'un bon Scratcheur](http://scratched.gse.harvard.edu/guide/)
 * [Harward Guide Scratch 3.0](http://scratched.gse.harvard.edu/guide/)
 * [Scractch 3.0 - FAQ](https://scratch.mit.edu/info/faq#scratch3)
 * [Scractch 3.0 - Codeclub](https://projects.raspberrypi.org/en/codeclub/microbit)
