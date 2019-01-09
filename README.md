@@ -1,6 +1,6 @@
 ## SCRATCH 3.0 WORKSHOP - MICROBIT 
 
-### SCRATCH 3.0
+### ATELIER
 * [Lien à l'archive - nouvelles amméliorations](https://github.com/bernatferragut/Scratch3.0-Atelier/blob/master/INDEX.md)
 
 ### OBJECTIVES
