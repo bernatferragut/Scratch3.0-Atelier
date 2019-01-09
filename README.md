@@ -11,9 +11,9 @@
 
 ### EXERCISES À REMIXER
 * [Lien au studio avec exercises à remixer](https://scratch.mit.edu/studios/5830403/)
-* [Controles de base](https://scratch.mit.edu/projects/278211868/)
-* [Jeu-1 - Remix simple - 1 axe - ajoute ton histoire](https://scratch.mit.edu/projects/278220264/)
-* [Jeu-2 - Remix avancé - 2 axes - ajoute ton histoire](https://scratch.mit.edu/projects/277393092/)
+* [Introduction - Les bases](https://scratch.mit.edu/projects/278211868/)
+* [Jeu1 - Remix simple - 1 axe - ajoute ton histoire](https://scratch.mit.edu/projects/278220264/)
+* [Jeu2 - Remix avancé - 2 axes - ajoute ton histoire](https://scratch.mit.edu/projects/277393092/)
 * Partage ton travail avec la communautée!
 
 ### LIENS DE BASE:
