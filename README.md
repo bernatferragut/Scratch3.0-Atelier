@@ -10,11 +10,11 @@
 * Ajoute tes idées
 
 ### EXERCISES À REMIXER
-* [Lien aux exercises à remixer](https://scratch.mit.edu/studios/5830403/)
-* Jeu-1 - Remix Simple - 1 axe - ajoute ton histoire
-* Jeu-2 - Remix Avancé - 2 axes - ajoute ton histoire
-* Partage ton travail avec la communautée
-
+* [Lien au studio avec exercises à remixer](https://scratch.mit.edu/studios/5830403/)
+* [Controles de base](https://scratch.mit.edu/projects/278211868/)
+* [Jeu-1 - Remix simple - 1 axe - ajoute ton histoire](https://scratch.mit.edu/projects/278220264/)
+* [Jeu-2 - Remix avancé - 2 axes - ajoute ton histoire](https://scratch.mit.edu/projects/277393092/)
+* Partage ton travail avec la communautée!
 
 ### LIENS DE BASE:
 * [Lien à Scratch 3.0](https://scratch.mit.edu/)
