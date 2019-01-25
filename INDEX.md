@@ -12,7 +12,7 @@
     * Focus sur l'éditeur - La communauté viendra aprés
     * Interface moderne
     * Effacer les blocs avec le clavier
-    * Défiler dans la surface de codage
+    * Changements sur la surface de codage
 
 ### 2. Arrière-plans, lutins
     * Nouveau choix de lutins
@@ -38,7 +38,7 @@
     * bit.ly/scratch-resource-developers
 
 ### 6. Version hors-ligne
-    * Fonctionelle depus le 2 janvier
+    * Fonctionelle depuis le 2 janvier
 
 ### 7. Ressources 
     * Tutoriels 
