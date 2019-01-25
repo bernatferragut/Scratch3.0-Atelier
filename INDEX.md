@@ -20,6 +20,7 @@
     * Possibilité de voir les mouvements avant le choix final
 
 ### 3. Dessin, Son - extensions/plugins
+    * On separe le son de la musique
     * Possiblité d'écouter les sons à l'avance
     * Sélecteur de couleurs - facilite le choix des couleurs
     * Nouveau bloc: Glisser vers
