@@ -9,6 +9,7 @@
     * Multi-platforme: ipads, touch-screens, mobile...
 
 ### 1. Interface UI/UX - COULEURS - POLICES
+    * Création de gauche aà droite
     * Évolution logique de Scratch 2.0
     * Focus sur l'éditeur - La communauté viendra aprés
     * Interface moderne
