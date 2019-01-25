@@ -28,3 +28,4 @@
 * [Scractch 3.0 - FAQ](https://scratch.mit.edu/info/faq#scratch3)
 * [Scractch 3.0 - Codeclub](https://projects.raspberrypi.org/en/codeclub/microbit)
 * [Scratch 3.0 - Developeurs - GUI](https://github.com/LLK/scratch-gui)
+* [Scratch 3.0 - Extensions - Exemple](https://github.com/LLK/scratch-gui/blob/develop/src/examples/extensions/example-extension.js)
