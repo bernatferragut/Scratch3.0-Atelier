@@ -1,7 +1,7 @@
 # SCRATCH 3.0 - 2 JANVIER 2019
 
 ## AMÉLIORATIONS
-### 0. Code Ouvert - fin de la technologie Flash
+### 0. Code Ouvert - Fin de la technologie Flash
     * Codé à nouveau en JavaScript - le standard du Web
     * Tout le code se trouve sur Github
     * Possibilité de modifier le code-source
