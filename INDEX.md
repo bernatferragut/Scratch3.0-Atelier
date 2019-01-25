@@ -62,6 +62,7 @@
 
 ## POUR AMÉLIORER - WIP
 ### 1. Interface Moderne
+    * Grille
     * Meilleure interface de codage
     * Police plus facile à lire
     * Couleurs de certain blocs trop pareils - Ex: vert pour commencer
