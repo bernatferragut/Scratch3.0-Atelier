@@ -27,4 +27,4 @@
 * [Harward Guide Scratch 3.0](http://scratched.gse.harvard.edu/guide/)
 * [Scractch 3.0 - FAQ](https://scratch.mit.edu/info/faq#scratch3)
 * [Scractch 3.0 - Codeclub](https://projects.raspberrypi.org/en/codeclub/microbit)
-* [Scratch 3.0 - Developeurs](github.com/llk)
+* [Scratch 3.0 - Developeurs - GUI](https://github.com/LLK/scratch-gui)
