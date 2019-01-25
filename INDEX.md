@@ -3,6 +3,7 @@
 ## AMÉLIORATIONS
 ### 0. Code Ouvert - Fin de la technologie Flash
     * Codé à nouveau en JavaScript - le standard du Web
+    * Microbit et Scratch - Javascript
     * Tout le code se trouve sur Github
     * Possibilité de modifier le code-source
     * Multi-platforme: ipads, touch-screens, mobile...
