@@ -62,9 +62,11 @@
 
 ## POUR AMÉLIORER - WIP
 ### 1. Interface Moderne
-    * Grille
-    * Meilleure interface de codage
     * Police plus facile à lire
+    * Grille on/off
+    * Controle verticale de la taille des fenêtres
+    * Cacher Menu Principal
+    * Ampliation section en clicant sur l'espace
     * Couleurs de certain blocs trop pareils - Ex: vert pour commencer
 
 ### 2. La communauté Scratch 
