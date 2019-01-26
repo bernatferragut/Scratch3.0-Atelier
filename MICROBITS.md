@@ -10,4 +10,6 @@
 6. Ouvrir extension MICROBIT
 7. Clicker point d'exclamation sur l'extension et pairer le MICROBIT
 8. Programmer avec les blocks MICROBIT
-9. JOUER!
+9. Amusez-vous bien!
+
+> Bernat Ferragut - KCJ 2019
