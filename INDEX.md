@@ -77,5 +77,7 @@
     * Option de couches pour dessiner
     * Cinématique Inversé (IK)
     * Moteur physique
+    
+> Bernat Ferragut - KCJ 2019
 
 
