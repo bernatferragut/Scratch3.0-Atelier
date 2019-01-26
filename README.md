@@ -30,3 +30,5 @@
 * [Scractch 3.0 - Codeclub](https://projects.raspberrypi.org/en/codeclub/microbit)
 * [Scratch 3.0 - Developeurs](https://github.com/LLK)
 * [Scratch 3.0 - Extensions - Exemple](https://github.com/LLK/scratch-gui/blob/develop/src/examples/extensions/example-extension.js)
+
+> Bernat Ferragut - KCJ 2019
