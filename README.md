@@ -15,7 +15,7 @@
 * [Lien à Scratch Microbit](https://scratch.mit.edu/microbit)
 
 ### EXERCISES À REMIXER
-* [Lien au studio avec exercises à remixer](https://scratch.mit.edu/studios/5830403/)
+> [Lien au studio avec exercises à remixer](https://scratch.mit.edu/studios/5830403/)
 * [Introduction - Les bases](https://scratch.mit.edu/projects/278211868/)
 * [Introduction - Les effets](https://scratch.mit.edu/projects/282197028/)
 * [Jeu0 - Remix simple - 1 axe - ajoute ton shitoire: politique + environnement](https://scratch.mit.edu/projects/282261694/)
